@@ -4,7 +4,7 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@sushiswap/sdk");
+const { ChainId } = require("@polkaex/sdk");
 
 const fs = require("fs");
 
@@ -21,6 +21,7 @@ const NAME = {
   [ChainId.HARMONY]: "harmony",
   [ChainId.OKEX]: "okex",
   [ChainId.CELO]: "celo",
+  [ChainId.DUSTY]: 'dusty',
 };
 
 (async () => {

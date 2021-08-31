@@ -1,0 +1,18 @@
+[
+    {
+        "name": "PKEX Token",
+        "address": "0xbA542F04c153996f83F401de7C0C42376abE21dB",
+        "symbol": "PKEX",
+        "decimals": 18,
+        "chainId": 80,
+        "logoURI": "https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.jpg"
+    },
+    {
+        "name": "USD Coin USDC",
+        "address": "0x86336584505Af4dF458F8695cB6181E654420693",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 80,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    }
+]

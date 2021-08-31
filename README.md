@@ -1,12 +1,12 @@
-# @sushiswap/default-token-list
+# @polkaex/default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the SushiSwap interface.
+This NPM module and GitHub repo contains the default token list used in the polkaex interface.
 
 ## Adding a token
 
 To request that we add a token to the list:
-  + [file an issue](https://github.com/sushiswap/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D)
-  + [Add PR](https://github.com/sushiswap/assets) with corresponding logo in under the correct blockchain folder
+  + [file an issue](https://github.com/polkaex/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D)
+  + [Add PR](https://github.com/polkaex/assets) with corresponding logo in under the correct blockchain folder
 
 ### Disclaimer
 
