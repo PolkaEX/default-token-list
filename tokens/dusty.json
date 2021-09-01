@@ -5,7 +5,15 @@
         "symbol": "PKEX",
         "decimals": 18,
         "chainId": 80,
-        "logoURI": "https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.jpg"
+        "logoURI": "https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
+    },
+    {
+        "name": "WPLD Token",
+        "address": "0x877A9D921ecfDA260C27932e19A75588024A66B9",
+        "symbol": "WPLD",
+        "decimals": 18,
+        "chainId": 80,
+        "logoURI": "https://raw.githubusercontent.com/polkaex/icons/master/token/wpld.svg"
     },
     {
         "name": "USD Coin USDC",
