@@ -4,7 +4,7 @@
         "address": "0x1953250883DDC5ba9946d02AdE3cCb1c4FF12143",
         "symbol": "PKEX",
         "decimals": 18,
-        "chainId": 80,
+        "chainId": 81,
         "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
     },
     {
@@ -12,7 +12,7 @@
         "address": "0x04efa209F9e74E612a529c393Cf9F1141E696F06",
         "symbol": "WSBY",
         "decimals": 18,
-        "chainId": 80,
+        "chainId": 81,
         "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/wsby.svg"
     },
     {
@@ -20,7 +20,7 @@
         "address": "0xA4F42578c723A5B6781A9F49d586B8645ba85C31",
         "symbol": "USDC",
         "decimals": 6,
-        "chainId": 80,
+        "chainId": 81,
         "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
 ]
