@@ -5,7 +5,7 @@
     "symbol": "PKEX",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.jpg"
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
   },
   {
     "name": "Wrapped Ether",
