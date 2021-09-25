@@ -1,5 +1,13 @@
 [
 	{
+		"name": "PKEX Token",
+		"address": "0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920",
+		"symbol": "PKEX",
+		"decimals": 18,
+		"chainId": 42,
+		"logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
+	},
+	{
 		"address": "0x111111111117dC0aa78b770fA6A738034120C302",
 		"chainId": 1,
 		"name": "1inch Exchange",
