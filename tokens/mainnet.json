@@ -4,7 +4,7 @@
 		"address": "0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920",
 		"symbol": "PKEX",
 		"decimals": 18,
-		"chainId": 42,
+		"chainId": 1,
 		"logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
 	},
 	{
