@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2021-09-22T14:22:08.775Z",
+  "timestamp": "2021-09-25T11:55:06.489Z",
   "version": {
     "major": 14,
     "minor": 9,
@@ -3057,6 +3057,14 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png"
+    },
+    {
+      "name": "PKEX Token",
+      "address": "0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920",
+      "symbol": "PKEX",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
     },
     {
       "name": "PKEX Token",
