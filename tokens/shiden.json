@@ -1,0 +1,82 @@
+[
+  {
+    "name": "PKEX Token",
+    "address": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
+    "symbol": "PKEX",
+    "decimals": 18,
+    "chainId": 336,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
+  },
+  {
+    "name": "Wrapped SDN",
+    "address": "0x0f933Dc137D21cA519ae4C7E93f87a4C8EF365Ef",
+    "symbol": "WSDN",
+    "decimals": 18,
+    "chainId": 336,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/wsby.svg"
+  },
+  {
+    "name": "USD Coin USDC",
+    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 336,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+  },
+  {
+    "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+    "chainId": 336,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/usdt.jpg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 336,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/dai.jpg"
+  },
+  {
+    "name": "Ethereum Token",
+    "symbol": "ETH ",
+    "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+    "chainId": 336,
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/eth.jpg"
+  },
+  {
+    "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
+    "chainId": 336,
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/btc.jpg"
+  },
+  {
+    "name": "BNB Token",
+    "symbol": "BNB",
+    "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+    "chainId": 336,
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/bnb.jpg"
+  },
+  {
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
+    "chainId": 336,
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/busd.jpg"
+  },
+  {
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "address": "0x735abe48e8782948a37c7765ecb76b98cde97b0f",
+    "chainId": 336,
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/jpyc.svg"
+  }
+]

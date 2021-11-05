@@ -216,17 +216,11 @@
   dependencies:
     "@octokit/openapi-types" "^7.3.5"
 
-"@sushiswap/core@^2.0.0-canary.0":
-  version "2.0.0-canary.1"
-  resolved "https://registry.yarnpkg.com/@sushiswap/core/-/core-2.0.0-canary.1.tgz#91c938668282d463e4fce6e0cf4d320ce5f3768f"
-  integrity sha512-6YFT4EKgm0XgfwCBsKx5HrDtRI6EvhZHipjBKegdTV0b2zKuXnmdyZ+RwPCr0mCKq2pKB0qIiqCxfbgXYDlLCQ==
-
-"@sushiswap/sdk@^5.0.0-canary.22":
-  version "5.0.0-canary.22"
-  resolved "https://registry.yarnpkg.com/@sushiswap/sdk/-/sdk-5.0.0-canary.22.tgz#6d6ba76d816d606164992086117a814a7d7d8aad"
-  integrity sha512-75jVt5u3ToxysZxk3ke7dkriqeOUF1B9PbatWxElwQfuZiBfBkUD/tiS/WhkUqdRsnk2Xia5p8XQdAJzPdZv8w==
+"@polkaex/sdk@https://github.com/PolkaEX/polkaex-sdk":
+  version "5.0.0-canary.7"
+  resolved "https://github.com/PolkaEX/polkaex-sdk#e884ac329be04845f93055a6031f57ab2672ca55"
   dependencies:
-    "@sushiswap/core" "^2.0.0-canary.0"
+    "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"
     jsbi "^3.1.1"
@@ -243,6 +237,11 @@
   version "1.0.0-beta.19"
   resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.19.tgz#5256db144fba721a6233f43b92ffb388cbd58327"
   integrity sha512-19V3KM7DAe40blWW1ApiaSYwqbq0JTKMO3yChGBrXzQBl+BoQZRTNZ4waCyoZ5QM45Q0Mxd6bCn6jXcH9G1kjg==
+
+"@uniswap/v2-core@^1.0.0":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
+  integrity sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q==
 
 adler-32@~1.2.0:
   version "1.2.0"
