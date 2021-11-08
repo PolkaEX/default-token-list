@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2021-11-05T06:39:43.595Z",
+  "timestamp": "2021-11-08T10:10:57.120Z",
   "version": {
     "major": 14,
     "minor": 9,
@@ -3022,7 +3022,7 @@
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "chainId": 336,
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/eth.jpg"
+      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/eth.png"
     },
     {
       "name": "JPY Coin",
@@ -3062,7 +3062,7 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/btc.jpg"
+      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/wbtc.png"
     },
     {
       "name": "Wrapped SDN",

@@ -45,7 +45,7 @@
     "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
     "chainId": 336,
     "decimals": 18,
-    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/eth.jpg"
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/eth.png"
   },
   {
     "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
@@ -53,7 +53,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/btc.jpg"
+    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/wbtc.png"
   },
   {
     "name": "BNB Token",
