@@ -29,7 +29,7 @@
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/polkaex/assets/master/blockchains/ethereum/assets/0x765277eebeca2e31912c9946eae1021199b39c61/logo.png"
   },
   {
     "name": "BTCB Token",
