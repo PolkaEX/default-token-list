@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2021-12-10T11:30:46.804Z",
+  "timestamp": "2022-01-06T10:42:00.944Z",
   "version": {
     "major": 14,
     "minor": 9,
@@ -2449,12 +2449,28 @@
       "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/jpyc.svg"
     },
     {
+      "name": "KAC Coin",
+      "symbol": "KAC",
+      "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+      "chainId": 336,
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/kac.png"
+    },
+    {
       "name": "PKEX Token",
       "address": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
       "symbol": "PKEX",
       "decimals": 18,
       "chainId": 336,
       "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/pkex.svg"
+    },
+    {
+      "name": "STND Coin",
+      "symbol": "STND",
+      "address": "0x722377A047e89CA735f09Eb7CccAb780943c4CB4",
+      "chainId": 336,
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/stnd.png"
     },
     {
       "name": "USD Coin USDC",
