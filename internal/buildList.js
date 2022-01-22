@@ -27,6 +27,7 @@ const palm = require("../tokens/palm.json");
 const dusty = require("../tokens/dusty.json");
 const shibuya = require("../tokens/shibuya.json");
 const shiden = require("../tokens/shiden.json")
+const astar = require("../tokens/astar.json")
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -69,7 +70,8 @@ module.exports = function buildList() {
       ...palm,
       ...dusty,
       ...shibuya,
-      ...shiden
+      ...shiden,
+      ...astar
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
