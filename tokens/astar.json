@@ -70,6 +70,14 @@
       "chainId": 592,
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/busd.jpg"
+    },
+    {
+      "name": "DOT Token",
+      "symbol": "DOT",
+      "address": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/polkaex/image/fetch/w_64/https://raw.githubusercontent.com/polkaex/icons/master/token/dot.png"
     }
   ]
   
